@@ -42,5 +42,5 @@ function plot_scatter(dim)
     scatter_time(dim,resultPLU[:,3],"LU com Piv. Parcial")
 end
 
-dim=[i for i=1000:1000:10000]
+dim=[i for i=1000:1000:5000]
 #plot_scatter(dim)
